@@ -1,7 +1,7 @@
 # Test
 test
 
-- <b>컴파일 오류(compile error)</b>
+- <b>test(compile error)</b>
 
 ## 예외 처리하기
 ### try ~ catch문
@@ -13,7 +13,9 @@ try {
 }
 ```
 
-#### test 
+# test2
+## test2
+- <b>test2</b>
 ```
 if (true) {
 }
