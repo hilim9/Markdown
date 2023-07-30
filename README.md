@@ -39,13 +39,13 @@ test
 # 8. 링크 달기
 (1) 인라인 링크  
 
-[블로그 주소](https://lsh424.tistory.com/)
+[주소](https://github.com/hilim9/Test.git)
 
 (2) 참조 링크  
 
-[블로그 주소][blog]
+[주소][test]
 
-[blog]: https://lsh424.tistory.com/
+[test]: https://github.com/hilim9/Test.git
 
 # 9. 이미지 추가하기
 ![이탈리아 포지타노](https://user-images.githubusercontent.com/31477658/85016059-f962aa80-b1a3-11ea-8c91-dacba2666b78.jpeg)
