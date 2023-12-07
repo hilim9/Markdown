@@ -101,4 +101,4 @@ br태그를 사용한 문장개행
 
 <br>
 
-참조링크: https://lsh424.tistory.com/37
+참고링크: https://lsh424.tistory.com/37
